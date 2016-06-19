@@ -54,5 +54,17 @@
 <remove-project name="CyanogenMod/android_packages_wallpapers_NoiseField" />
 <remove-project name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
 <remove-project	name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
+
+<!--optional Grouper-->
+<remove-project name="CyanogenMod/android_packages_apps_Calendar" />
+<remove-project name="CyanogenMod/android_packages_apps_Camera2" />
+<remove-project name="CyanogenMod/android_packages_apps_Eleven" />
+<remove-project name="CyanogenMod/android_packages_apps_ExactCalculator" />
+<remove-project	name="CyanogenMod/android_packages_apps_DeskClock" />
+<remove-project	name="android_packages_apps_LockClock" />
+<remove-project name="CyanogenMod/android_packages_apps_Browser" />
+<remove-project name="CyanogenMod/android_packages_screensavers_PhotoTable" />
+<remove-project name="CyanogenMod/android_packages_apps_SoundRecorder" />
+<remove-project name="CyanogenMod/android_external_gello_build" />
 	
 </manifest>
