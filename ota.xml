@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-	 <grouper>
+    	<cancro>
+            <Filename>ResurrectionRemix-M-v5.7.0-20160621-cancro.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424940753</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+             <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>	
+	</cancro>
+	<grouper>
             <Filename>ResurrectionRemix-M-v5.6.9-20160621-grouper.zip</Filename>
             <RomUrl
                 id="rom"
@@ -15,6 +30,6 @@
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-	  </grouper>
+	</grouper>
     </Stable>
 </SlimOTA>
