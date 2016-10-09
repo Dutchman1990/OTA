@@ -17,11 +17,11 @@
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>	
 	</cancro>
 	<grouper>
-            <Filename>ResurrectionRemix-M-v5.6.9-20160621-grouper.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20161009-grouper.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24659351692116116</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=312968873555003590</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
